@@ -37,9 +37,9 @@ def fallenrm(update: Update, context: CallbackContext) -> str:
     if match:
         user_id = match.group(1)
         chat: Optional[Chat] = update.effective_chat
-        is_fallen = sql.set_fallen(chat.id)
+        is_fallen = sql.set_recreation(chat.id)
         if is_fallen:
-            is_fallen = sql.set_fallen(user_id)
+            is_fallen = sql.set_recreation(user_id)
             return (
                 f"<b>{html.escape(chat.title)}:</b>\n"
                 f"AI_DISABLED\n"
@@ -65,7 +65,7 @@ def fallenadd(update: Update, context: CallbackContext) -> str:
     if match:
         user_id = match.group(1)
         chat: Optional[Chat] = update.effective_chat
-        is_fallen = sql.rem_fallen(chat.id)
+        is_fallen = sql.rem_recreation(chat.id)
         if is_fallen:
             is_fallen = sql.rem_fallen(user_id)
             return (
@@ -106,7 +106,7 @@ def fallen(update: Update, context: CallbackContext):
 
 def fallen_message(context: CallbackContext, message):
     reply_message = message.reply_to_message
-    if message.text.lower() == "fallen":
+    if message.text.lower() == "recreation":
         return True
     elif BOT_USERNAME in message.text:
         return True
@@ -121,7 +121,7 @@ def chatbot(update: Update, context: CallbackContext):
     message = update.effective_message
     chat_id = update.effective_chat.id
     bot = context.bot
-    is_fallen = sql.is_fallen(chat_id)
+    is_fallen = sql.is_recreation(chat_id)
     if is_fallen:
         return
 
