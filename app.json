@@ -1,7 +1,7 @@
 {
-      "name": "Fallen Robot",
-      "description": "Telegram Group Management Bot.",
-      "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
+      "name": "recreation Robot",
+      "description": "Recreation telegram Group Management Bot.",
+      "logo": "https://graph.org/file/484b921f9f396dd74ebb4.jpg",
       "keywords": [
          "telegram",
          "modular",
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/ZEOOX9210/Recreationbot",
    "stack": "heroku-22",
    "addons": [
       {
