@@ -1,25 +1,25 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 RECREATION ✘ ʀᴏʙᴏᴛ 」──
 </h2>
 
 <p align="center">
-  <img src="https://github.com/AnonymousX1025/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://graph.org/file/dacbda2be013e749c40ec.mp4">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [RECREATION ✘ ʀᴏʙᴏᴛ](https://t.me/FallenXRobot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/AnonymousX1025/FallenRobot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ZEOOX9210/Recreationbot/tree/master"><img src="https://img.shields.io/github/stars/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge " alt="Stars" /></a>
 <a href="https://github.com/AnonymousX1025/FallenRobot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousX1025/FallenRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://img.shields.io/github/stars/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=white&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=white&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
 <a href="https://github.com/AnonymousX1025/FallenRobot"> <img src="https://img.shields.io/github/repo-size/AnonymousX1025/FallenRobot?color=skyblue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/AnonymousX1025/FallenRobot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="[https://github.com/AnonymousX1025/FallenRobot/commits/AnonymousX1025](https://img.shields.io/github/stars/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge)"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/FallenRobot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -70,7 +70,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by :
-`python3 -m FallenRobot`
+`python3 -m RecreationRobot`
 - For getting out from tmux session
 
 Press `Ctrl+b` and then `d`
@@ -87,10 +87,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/CHATTING_HUB8"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/CHATTING_HUB8"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
@@ -99,10 +99,10 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/AnonymousX1025/FallenRobot) </b>
-- <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ](https://github.com/PaulSonOfLars)  ➻  [ᴛɢ ʙᴏᴛ](https://github.com/PaulSonOfLars/tgbot) </b>
-- <b>[ʜᴀᴍᴋᴇʀ ᴄᴀᴛ](https://github.com/TheHamkerCat)  ➻  [ᴡɪʟʟɪᴀᴍ ʙᴜᴛᴄʜᴇʀ](https://github.com/TheHamkerCat/WilliamButcherBot) </b>
+- <b>[ᴀɴᴏɴʏᴍᴏᴜs]()  ➻  [sᴏᴍᴇᴛʜɪɴɢ]() </b>
+- <b>[ᴩᴀᴜʟ ʟᴀʀsᴇɴ]()  ➻  [ᴛɢ ʙᴏᴛ]() </b>
+- <b>[ʜᴀᴍᴋᴇʀ ᴄᴀᴛ]()  ➻  [ᴡɪʟʟɪᴀᴍ ʙᴜᴛᴄʜᴇʀ]() </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/AnonymousX1025/FallenRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](@ZODEX6) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ RECREATION ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
